@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Рамиль Зарипов](https://up.htmlacademy.ru/ecmascript-individual/2/user/241042).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгения Подопригора](https://htmlacademy.ru/profile/id2387199).
 
 ---
 
